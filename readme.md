@@ -1,6 +1,6 @@
 # Sensor Maker
 
-This project is a tool for creating sensor applications.
+This project is a tool for creating your own ESP32 IoT sensor using a convenient GUI screen, and no programming skill is needed. To use it, you just need to plug the ESP32 into your computer, connect the sensor to the port, run this program, and make a few sensor-specific settings; the program will then be uploaded automatically.
 
 ## Installation
 
