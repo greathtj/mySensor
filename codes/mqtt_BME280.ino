@@ -16,6 +16,7 @@ Adafruit_BME280 bme; // I2C
 #include <WiFi.h>
 #include <PubSubClient.h>
 
+// test
 //===================================================
 const char* ssid = "MYSSID";
 const char* password = "MYPASS";
