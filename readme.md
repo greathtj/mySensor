@@ -6,11 +6,11 @@ This project is a tool for creating sensor applications.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/your-username/mySensor.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd sensor_maker
+    cd mySensor
     ```
 3.  **Install the required dependencies:**
     ```bash
